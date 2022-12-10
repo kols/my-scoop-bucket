@@ -1,0 +1,12 @@
+{
+  "bin": "winapp2ool.exe",
+  "url": "https://github.com/MoscaDotTo/Winapp2/raw/master/winapp2ool/bin/Release/winapp2ool.exe",
+  "version": "1.0",
+  "hash": "fba5d3153ffcc47e608c083f79c65206633d07d1514e6256f9e04a1450917ad2",
+  "shortcuts": [
+      [
+        "winapp2ool.exe",
+        "winapp2ool"
+      ]
+  ]
+}

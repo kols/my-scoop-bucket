@@ -1,0 +1,12 @@
+{
+  "bin": "Clash Verge.exe",
+  "url": "https://github.com/zzzgydi/clash-verge/releases/download/v1.2.2/Clash.Verge_1.2.2_x64_portable.zip",
+  "version": "1.2.2",
+  "hash": "d55e8bf9bf327e0872b9132eda2d5e61d396e317292877957c0b4050201df7f9",
+  "shortcuts": [
+      [
+          "Clash Verge.exe",
+	  "Clash Verge"
+      ]
+  ]
+}
